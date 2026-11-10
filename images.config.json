@@ -1,0 +1,15 @@
+{
+  "contexts": {
+    "local": ["travel", "city", "street", "temple", "beach", "market", "station", "island"],
+    "regional": ["travel", "airport", "railway", "border", "ferry", "train", "station", "city"],
+    "global": ["airport", "airplane", "travel", "terminal", "departure", "flight", "harbor", "train"]
+  },
+  "avoidByContext": {
+    "local": ["logo", "poster", "flag"],
+    "regional": ["logo", "poster", "flag"],
+    "global": ["logo", "poster", "flag"]
+  },
+  "minScore": 5,
+  "maxReuse": 3,
+  "pool": 4
+}

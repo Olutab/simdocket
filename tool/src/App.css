@@ -1,0 +1,37 @@
+/* tool/src/App.css */
+:root { --bg: #FAFAF7; --surface: #F2F1EC; --ink: #141414; --accent: #B93D1A; --warning: #1F5FA8; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: 'Public Sans', system-ui, sans-serif; line-height: 1.5; }
+.tool { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem; }
+h1 { font-family: 'Space Grotesk', sans-serif; font-size: 2.5rem; margin: 0 0 0.5rem; }
+.sub { color: #555; margin-bottom: 2rem; }
+h2 { font-family: 'Space Grotesk', sans-serif; font-size: 1.2rem; border-bottom: 2px solid var(--ink); padding-bottom: 0.25rem; margin-top: 2rem; }
+.leg { display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem; }
+.leg-num { font-weight: bold; width: 60px; }
+select, input[type="number"] { padding: 0.4rem; border: 2px solid var(--ink); background: #fff; font-size: 1rem; }
+input[type="number"] { width: 60px; }
+.btn { padding: 0.6rem 1.2rem; border: 2px solid var(--ink); cursor: pointer; font-weight: bold; font-family: inherit; }
+.btn.ghost { background: transparent; margin-top: 0.5rem; }
+.btn.primary { background: var(--accent); color: #fff; font-size: 1.1rem; margin-top: 1.5rem; width: 100%; }
+.btn:hover { opacity: 0.9; }
+.remove { background: none; border: none; color: var(--accent); font-size: 1.2rem; cursor: pointer; }
+label { display: block; margin: 0.5rem 0; }
+
+.results { margin-top: 2.5rem; display: flex; flex-direction: column; gap: 1.5rem; }
+.card { border: 2px solid var(--ink); padding: 1.25rem; background: var(--surface); }
+.card.pick { border-color: var(--accent); box-shadow: 4px 4px 0 var(--accent); }
+.card-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.5rem; }
+.rank { font-family: 'Space Grotesk', sans-serif; font-weight: bold; font-size: 1.2rem; }
+.score { font-family: 'Space Grotesk', sans-serif; font-weight: bold; color: var(--warning); }
+.score small { font-weight: normal; }
+.price { font-family: 'Space Grotesk', sans-serif; font-weight: bold; font-size: 1.5rem; }
+.card h3 { margin: 0 0 1rem; font-family: 'Space Grotesk', sans-serif; }
+table { width: 100%; border-collapse: collapse; margin-bottom: 1rem; font-size: 0.95rem; }
+th, td { text-align: left; padding: 0.4rem; border-bottom: 1px solid #ccc; }
+th { border-bottom: 2px solid var(--ink); }
+.badge { background: var(--warning); color: #fff; font-size: 0.7rem; padding: 0.1rem 0.4rem; border-radius: 4px; text-transform: uppercase; }
+.why { margin: 0 0 0.5rem; font-style: italic; }
+.flags { margin: 0; padding-left: 1.2rem; color: var(--warning); font-size: 0.9rem; }
+.empty { border: 2px dashed var(--ink); padding: 1rem; background: var(--surface); }
+.tool-head { display: flex; gap: 1.5rem; margin-bottom: 2rem; font-size: .9rem; }
+.tool-head a { color: #666; text-decoration: none; }
+.tool-head a:hover { color: var(--accent); }

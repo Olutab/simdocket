@@ -1,0 +1,40 @@
+{
+  "project": "SIMDOCKET",
+  "site_url": "https://simdocket.example",
+  "tagline": "File the right eSIM for the route you're actually flying.",
+  "layout_archetype": {
+    "choice": "Editorial magazine",
+    "why": "Travel data deserves breathing room. Magazine layouts balance data density with human readability."
+  },
+  "navigation_model": {
+    "choice": "Category-hub pyramid",
+    "why": "2,000 pages across regions → countries → plans need cluster hierarchy; partners deep-link into hubs."
+  },
+  "visual_language": {
+    "choice": "Warm paper/serif editorial",
+    "why": "Travel readers want trust and warmth, not brutalist data dumps. Serif headlines feel like a Condé Nast feature."
+  },
+  "type_pairing": {
+    "display": "Lora",
+    "text": "Inter",
+    "why": "Lora gives editorial elegance to headlines; Inter is the most legible sans for long-form reading at small sizes."
+  },
+  "palette": {
+    "bg": "#FAF7F2",
+    "surface": "#F5F0E8",
+    "ink": "#2B2B2B",
+    "accent": "#8B5A3C",
+    "warning": "#4A6D7C"
+  },
+  "motion_level": "subtle",
+  "imagery_strategy": {
+    "photo_style": "Documentary wayfinding — departure boards, border gates, rail platforms, ferry piers, signage. Never faces.",
+    "treatment": "Warm cream overlay, soft shadows, rounded corners (12px). Photos feel like travel journal pages.",
+    "svg_system": "Generated SVG plan-docket cards where a photo would be generic."
+  },
+  "voice": {
+    "adjectives": ["trusted", "warm", "editorial"],
+    "banned_phrases": ["hidden gem", "game-changer", "the best eSIM, period"]
+  },
+  "page_type_mix": ["plan", "country hub", "corridor", "provider", "comparison", "glossary", "methodology", "widget-embed", "credits", "about", "contact", "privacy", "terms", "editorial", "faq"]
+}

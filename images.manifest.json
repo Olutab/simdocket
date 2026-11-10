@@ -1,0 +1,2274 @@
+{
+  "airalo-thailand-3gb-30d": {
+    "files": [
+      "airalo-thailand-3gb-30d-1280.webp",
+      "airalo-thailand-3gb-30d-800.webp",
+      "airalo-thailand-3gb-30d-480.webp"
+    ],
+    "width": 4032,
+    "height": 2688,
+    "alt": "Airalo Thailand 3GB / 30d",
+    "artist": "Vyacheslav Argenberg",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Bangkok%2C_BTS_Skytrain%2C_Thailand.jpg",
+    "imageId": "wikimedia:123028240",
+    "query": "Bangkok BTS Skytrain platform at dusk",
+    "matchedStep": "bts skytrain",
+    "score": 9,
+    "matchedWords": [
+      "skytrain",
+      "bangkok",
+      "bts",
+      "station"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-09T21:04:42.093Z"
+  },
+  "airalo-thailand-10gb-30d": {
+    "files": [
+      "airalo-thailand-10gb-30d-1280.webp",
+      "airalo-thailand-10gb-30d-800.webp",
+      "airalo-thailand-10gb-30d-480.webp"
+    ],
+    "width": 4000,
+    "height": 3000,
+    "alt": "Airalo Thailand 10GB / 30d",
+    "artist": "RFNirmala",
+    "license": "cc0",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Pasig_River_Ferry_-_Quinta_Market_station_22Dec2025_04.jpg",
+    "imageId": "wikimedia:180505595",
+    "query": "Bangkok river ferry crossing at dusk",
+    "matchedStep": "river ferry",
+    "score": 9,
+    "matchedWords": [
+      "ferry",
+      "river",
+      "market",
+      "station"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "mid-card",
+    "fetchedAt": "2026-11-09T21:05:17.467Z"
+  },
+  "nomad-thailand-5gb-30d": {
+    "files": [
+      "nomad-thailand-5gb-30d-1280.webp",
+      "nomad-thailand-5gb-30d-800.webp",
+      "nomad-thailand-5gb-30d-480.webp"
+    ],
+    "width": 6016,
+    "height": 3504,
+    "alt": "Nomad Thailand 5GB / 30d",
+    "artist": "Philip Nalangan",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_Temple_Thailand.jpg",
+    "imageId": "wikimedia:165579874",
+    "query": "Chiang Mai temple roofline at dawn",
+    "matchedStep": "chiang mai temple",
+    "score": 9,
+    "matchedWords": [
+      "temple",
+      "chiang",
+      "mai",
+      "temple"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-09T21:05:30.834Z"
+  },
+  "saily-vietnam-3gb-30d": {
+    "files": [
+      "saily-vietnam-3gb-30d-1280.webp",
+      "saily-vietnam-3gb-30d-800.webp",
+      "saily-vietnam-3gb-30d-480.webp"
+    ],
+    "width": 2736,
+    "height": 3648,
+    "alt": "Saily Vietnam 3GB / 30d",
+    "artist": "Adam Jones from Kelowna, BC, Canada",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Old_Quarter_Street_Scene_-_Hanoi_-_Vietnam_(48256301206).jpg",
+    "imageId": "wikimedia:80542951",
+    "query": "Hanoi Old Quarter street signs",
+    "matchedStep": "old quarter street",
+    "score": 10,
+    "matchedWords": [
+      "street",
+      "hanoi",
+      "old",
+      "quarter",
+      "street"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-09T21:05:59.320Z"
+  },
+  "airalo-vietnam-5gb-30d": {
+    "files": [
+      "airalo-vietnam-5gb-30d-1280.webp",
+      "airalo-vietnam-5gb-30d-800.webp",
+      "airalo-vietnam-5gb-30d-480.webp"
+    ],
+    "width": 4856,
+    "height": 3238,
+    "alt": "Airalo Vietnam 5GB / 30d",
+    "artist": "lumoplank",
+    "license": "cc0",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_-_Halong1407.jpg",
+    "imageId": "wikimedia:195958191",
+    "query": "Ha Long Bay karst limestone from boat",
+    "matchedStep": "ha long bay karst",
+    "score": 11,
+    "matchedWords": [
+      "bay",
+      "ha",
+      "long",
+      "karst",
+      "limestone",
+      "boat",
+      "island"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-09T21:06:36.721Z"
+  },
+  "ubigi-vietnam-10gb-30d": {
+    "files": [
+      "ubigi-vietnam-10gb-30d-1280.webp",
+      "ubigi-vietnam-10gb-30d-800.webp",
+      "ubigi-vietnam-10gb-30d-480.webp"
+    ],
+    "width": 1024,
+    "height": 769,
+    "alt": "Ubigi Vietnam 10GB / 30d",
+    "artist": "Gary Rogers",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:A537_Cat_and_Fiddle_road_from_above_Stake_Farm.jpg",
+    "imageId": "wikimedia:62476224",
+    "query": "Da Nang coastal road from above",
+    "matchedStep": "road from above",
+    "score": 7,
+    "matchedWords": [
+      "above",
+      "road",
+      "from"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-09T21:20:37.228Z"
+  },
+  "maya-malaysia-5gb-30d": {
+    "files": [
+      "maya-malaysia-5gb-30d-1280.webp",
+      "maya-malaysia-5gb-30d-800.webp",
+      "maya-malaysia-5gb-30d-480.webp"
+    ],
+    "width": 5077,
+    "height": 3621,
+    "alt": "Maya Malaysia 5GB / 30d",
+    "artist": "CEphoto, Uwe Aranas",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuala-Lumpur-Monorail-04.jpg",
+    "imageId": "wikimedia:33471861",
+    "query": "Kuala Lumpur monorail platform",
+    "matchedStep": "kuala lumpur monorail",
+    "score": 9,
+    "matchedWords": [
+      "monorail",
+      "kuala",
+      "lumpur",
+      "station"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "mid-card",
+    "fetchedAt": "2026-11-09T21:21:06.211Z"
+  },
+  "airalo-malaysia-3gb-30d": {
+    "files": [
+      "airalo-malaysia-3gb-30d-1280.webp",
+      "airalo-malaysia-3gb-30d-800.webp",
+      "airalo-malaysia-3gb-30d-480.webp"
+    ],
+    "width": 1100,
+    "height": 766,
+    "alt": "Airalo Malaysia 3GB / 30d",
+    "artist": "Vnonymous",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Penang_shophouses%2C_Magazine_Road%2C_George_Town.jpg",
+    "imageId": "wikimedia:56482080",
+    "query": "Penang shophouse street frontage",
+    "matchedStep": "penang shophouse",
+    "score": 6,
+    "matchedWords": [
+      "shophouse",
+      "penang"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-09T21:21:36.923Z"
+  },
+  "nomad-indonesia-10gb-30d": {
+    "files": [
+      "nomad-indonesia-10gb-30d-1280.webp",
+      "nomad-indonesia-10gb-30d-800.webp",
+      "nomad-indonesia-10gb-30d-480.webp"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "alt": "Nomad Indonesia 10GB / 30d",
+    "artist": "Unknown",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Rice_terrace_Kadewatan_200507-2.jpg",
+    "imageId": "wikimedia:257899",
+    "query": "Ubud rice terrace staircase",
+    "matchedStep": "ubud rice terrace",
+    "score": 5,
+    "matchedWords": [
+      "terrace",
+      "ubud",
+      "rice"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-09T21:21:53.551Z"
+  },
+  "airalo-philippines-5gb-30d": {
+    "files": [
+      "airalo-philippines-5gb-30d-1280.webp",
+      "airalo-philippines-5gb-30d-800.webp",
+      "airalo-philippines-5gb-30d-480.webp"
+    ],
+    "width": 5231,
+    "height": 3487,
+    "alt": "Airalo Philippines 5GB / 30d",
+    "artist": "Micluna",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:View_of_El_Nido_limestone_cliffs.jpg",
+    "imageId": "wikimedia:171116601",
+    "query": "El Nido limestone cliffs from water",
+    "matchedStep": "el nido limestone cliffs",
+    "score": 9,
+    "matchedWords": [
+      "cliffs",
+      "el",
+      "nido",
+      "limestone",
+      "from"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "mid-card",
+    "fetchedAt": "2026-11-09T21:22:15.813Z"
+  },
+  "airalo-asia-3gb-30d": {
+    "files": [
+      "airalo-asia-3gb-30d-1280.webp",
+      "airalo-asia-3gb-30d-800.webp",
+      "airalo-asia-3gb-30d-480.webp"
+    ],
+    "width": 1600,
+    "height": 1332,
+    "alt": "Airalo Asia 3GB / 30d",
+    "artist": "Richard Sutcliffe",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Checking_the_departures_board_-_geograph.org.uk_-_6243421.jpg",
+    "imageId": "wikimedia:144928082",
+    "query": "Suvarnabhumi departures board",
+    "matchedStep": "departures board",
+    "score": 8,
+    "matchedWords": [
+      "departures",
+      "board",
+      "railway",
+      "train",
+      "station"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-09T21:22:46.323Z"
+  },
+  "airalo-asia-10gb-30d": {
+    "files": [
+      "airalo-asia-10gb-30d-1280.webp",
+      "airalo-asia-10gb-30d-800.webp",
+      "airalo-asia-10gb-30d-480.webp"
+    ],
+    "width": 4608,
+    "height": 3456,
+    "alt": "Airalo Asia 10GB / 30d",
+    "artist": "Sdkb",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Manchester-Boston_Airport_departure_gates_2.jpg",
+    "imageId": "wikimedia:107310634",
+    "query": "Airport departure gate corridor at night",
+    "matchedStep": "airport departure gate",
+    "score": 9,
+    "matchedWords": [
+      "gate",
+      "airport",
+      "departure",
+      "airport"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "banner",
+    "fetchedAt": "2026-11-09T21:23:06.222Z"
+  },
+  "nomad-asia-5gb-30d": {
+    "files": [
+      "nomad-asia-5gb-30d-1280.webp",
+      "nomad-asia-5gb-30d-800.webp",
+      "nomad-asia-5gb-30d-480.webp"
+    ],
+    "width": 4608,
+    "height": 3456,
+    "alt": "Nomad Asia 5GB / 30d",
+    "artist": "Judgefloro",
+    "license": "cc0",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:9920Pasig_River_Ferry_Service_29.jpg",
+    "imageId": "wikimedia:87589844",
+    "query": "Mekong river ferry crossing",
+    "matchedStep": "river ferry",
+    "score": 9,
+    "matchedWords": [
+      "ferry",
+      "river",
+      "ferry",
+      "station"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-09T21:23:45.515Z"
+  },
+  "saily-asia-3gb-30d": {
+    "files": [
+      "saily-asia-3gb-30d-1280.webp",
+      "saily-asia-3gb-30d-800.webp",
+      "saily-asia-3gb-30d-480.webp"
+    ],
+    "width": 3744,
+    "height": 3072,
+    "alt": "Saily Asia 3GB / 30d",
+    "artist": "Fanz226",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Singapore_MRT_202406.jpg",
+    "imageId": "wikimedia:149395576",
+    "query": "Singapore MRT platform signage",
+    "matchedStep": "singapore mrt",
+    "score": 6,
+    "matchedWords": [
+      "mrt",
+      "singapore"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-09T21:24:33.799Z"
+  },
+  "ubigi-southeast-asia-5gb-30d": {
+    "files": [
+      "ubigi-southeast-asia-5gb-30d-1280.webp",
+      "ubigi-southeast-asia-5gb-30d-800.webp",
+      "ubigi-southeast-asia-5gb-30d-480.webp"
+    ],
+    "width": 3941,
+    "height": 2217,
+    "alt": "Ubigi Southeast Asia 5GB / 30d",
+    "artist": "Raimond Spekking",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Border_checkpoint_Nadlac_-_Nagylak_-_Romanian_side-8766.jpg",
+    "imageId": "wikimedia:62446646",
+    "query": "Border checkpoint signage overland crossing",
+    "matchedStep": "border checkpoint",
+    "score": 8,
+    "matchedWords": [
+      "checkpoint",
+      "border",
+      "border"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-09T21:24:58.486Z"
+  },
+  "alosim-asia-5gb-30d": {
+    "files": [
+      "alosim-asia-5gb-30d-1280.webp",
+      "alosim-asia-5gb-30d-800.webp",
+      "alosim-asia-5gb-30d-480.webp"
+    ],
+    "width": 5555,
+    "height": 3704,
+    "alt": "aloSIM Asia 5GB / 30d",
+    "artist": "Bvcmz248.5",
+    "license": "cc0",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:20260407_Frankreich_Paris_Nord_European_Sleeper_Train_Charter_Services_RDC_Deutschland_Liegewagen_Bvcmz_248_1_56805071004-1_D-RAG.jpg",
+    "imageId": "wikimedia:188340772",
+    "query": "Overnight train sleeper carriage window",
+    "matchedStep": "sleeper",
+    "score": 9,
+    "matchedWords": [
+      "sleeper",
+      "train",
+      "train"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-09T21:26:10.396Z"
+  },
+  "maya-southeast-asia-10gb-30d": {
+    "files": [
+      "maya-southeast-asia-10gb-30d-1280.webp",
+      "maya-southeast-asia-10gb-30d-800.webp",
+      "maya-southeast-asia-10gb-30d-480.webp"
+    ],
+    "width": 1024,
+    "height": 683,
+    "alt": "Maya Southeast Asia 10GB / 30d",
+    "artist": "Ian Capper",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Riverside_promenade_-_geograph.org.uk_-_7102695.jpg",
+    "imageId": "wikimedia:156747295",
+    "query": "Vientiane riverside promenade at dusk",
+    "matchedStep": "riverside promenade",
+    "score": 6,
+    "matchedWords": [
+      "promenade",
+      "riverside"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-09T21:26:30.397Z"
+  },
+  "gigsky-asia-pacific-1gb-7d": {
+    "files": [
+      "gigsky-asia-pacific-1gb-7d-1280.webp",
+      "gigsky-asia-pacific-1gb-7d-800.webp",
+      "gigsky-asia-pacific-1gb-7d-480.webp"
+    ],
+    "width": 2656,
+    "height": 1992,
+    "alt": "GigSky Asia-Pacific 1GB / 7d",
+    "artist": "Scott Brody",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Newark_Airport_Wayfinding_Signage.jpg",
+    "imageId": "wikimedia:79581678",
+    "query": "Airport wayfinding signage close-up",
+    "matchedStep": "airport wayfinding signage",
+    "score": 9,
+    "matchedWords": [
+      "signage",
+      "airport",
+      "wayfinding",
+      "airport"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-09T21:26:39.115Z"
+  },
+  "airalo-europe-3gb-30d": {
+    "files": [
+      "airalo-europe-3gb-30d-1280.webp",
+      "airalo-europe-3gb-30d-800.webp",
+      "airalo-europe-3gb-30d-480.webp"
+    ],
+    "width": 6000,
+    "height": 4000,
+    "alt": "Airalo Europe 3GB / 30d",
+    "artist": "MDRX",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Central_Station_Departures_Board_Sydney.jpg",
+    "imageId": "wikimedia:107615112",
+    "query": "European rail station departures board",
+    "matchedStep": "station departures board",
+    "score": 10,
+    "matchedWords": [
+      "station",
+      "rail",
+      "departures",
+      "board",
+      "railway",
+      "station"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "banner",
+    "fetchedAt": "2026-11-09T21:27:46.421Z"
+  },
+  "airalo-europe-10gb-30d": {
+    "files": [
+      "airalo-europe-10gb-30d-1280.webp",
+      "airalo-europe-10gb-30d-800.webp",
+      "airalo-europe-10gb-30d-480.webp"
+    ],
+    "width": 4032,
+    "height": 3024,
+    "alt": "Airalo Europe 10GB / 30d",
+    "artist": "Chris Olszewski",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:PKP_Intercity_train_at_Krak%C3%B3w_G%C5%82%C3%B3wny_train_station%2C_Poland%2C_2019.jpg",
+    "imageId": "wikimedia:82382205",
+    "query": "Intercity train window countryside view",
+    "matchedStep": "intercity train",
+    "score": 8,
+    "matchedWords": [
+      "train",
+      "intercity",
+      "railway",
+      "train",
+      "station"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-09T21:28:44.788Z"
+  },
+  "nomad-europe-5gb-30d": {
+    "files": [
+      "nomad-europe-5gb-30d-1280.webp",
+      "nomad-europe-5gb-30d-800.webp",
+      "nomad-europe-5gb-30d-480.webp"
+    ],
+    "width": 1024,
+    "height": 683,
+    "alt": "Nomad Europe 5GB / 30d",
+    "artist": "DS Pugh",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Rail_viaduct_from_the_Rochdale_Canal_towpath_-_geograph.org.uk_-_8184399.jpg",
+    "imageId": "wikimedia:179371552",
+    "query": "Alpine rail viaduct from carriage",
+    "matchedStep": "rail viaduct from",
+    "score": 7,
+    "matchedWords": [
+      "viaduct",
+      "rail",
+      "from"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-09T21:29:24.196Z"
+  },
+  "saily-europe-3gb-30d": {
+    "files": [
+      "saily-europe-3gb-30d-1280.webp",
+      "saily-europe-3gb-30d-800.webp",
+      "saily-europe-3gb-30d-480.webp"
+    ],
+    "width": 2558,
+    "height": 1918,
+    "alt": "Saily Europe 3GB / 30d",
+    "artist": "Tokumeigakarinoaoshima",
+    "license": "cc0",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Platform_screen_door_in_Tennoji_Station.jpg",
+    "imageId": "wikimedia:38333314",
+    "query": "Metro platform tile signage",
+    "matchedStep": "metro platform",
+    "score": 7,
+    "matchedWords": [
+      "metro",
+      "platform",
+      "station"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-09T21:29:57.438Z"
+  },
+  "ubigi-europe-5gb-30d": {
+    "files": [
+      "ubigi-europe-5gb-30d-1280.webp",
+      "ubigi-europe-5gb-30d-800.webp",
+      "ubigi-europe-5gb-30d-480.webp"
+    ],
+    "width": 4064,
+    "height": 3056,
+    "alt": "Ubigi Europe 5GB / 30d",
+    "artist": "Tom Page",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Woolwich_Ferry_deck_2025-04-29.jpg",
+    "imageId": "wikimedia:170094734",
+    "query": "Ferry deck approaching harbor",
+    "matchedStep": "ferry deck",
+    "score": 8,
+    "matchedWords": [
+      "ferry",
+      "deck",
+      "ferry"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-09T21:30:33.096Z"
+  },
+  "yesim-europe-10gb-30d": {
+    "files": [
+      "yesim-europe-10gb-30d-1280.webp",
+      "yesim-europe-10gb-30d-800.webp",
+      "yesim-europe-10gb-30d-480.webp"
+    ],
+    "width": 4032,
+    "height": 2268,
+    "alt": "Yesim Europe 10GB / 30d",
+    "artist": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 21:04, 2 July 2022 (UTC)",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Station_Noord_bus_and_tram_stop_sign%2C_Kleiwegkwartier%2C_Rotterdam_(2022)_02.jpg",
+    "imageId": "wikimedia:120023662",
+    "query": "Tram stop sign in old town",
+    "matchedStep": "tram stop sign",
+    "score": 9,
+    "matchedWords": [
+      "tram",
+      "stop",
+      "sign",
+      "station"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-09T21:31:10.396Z"
+  },
+  "airalo-global-1gb-7d": {
+    "files": [
+      "airalo-global-1gb-7d-1280.webp",
+      "airalo-global-1gb-7d-800.webp",
+      "airalo-global-1gb-7d-480.webp"
+    ],
+    "width": 3840,
+    "height": 2160,
+    "alt": "Airalo Global 1GB / 7d",
+    "artist": "Microrao",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Airplane_wing_view.jpg",
+    "imageId": "wikimedia:203025419",
+    "query": "Long-haul airplane wing over clouds",
+    "matchedStep": "airplane wing",
+    "score": 8,
+    "matchedWords": [
+      "airplane",
+      "wing",
+      "airplane"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-09T21:32:18.092Z"
+  },
+  "airalo-global-3gb-30d": {
+    "files": [
+      "airalo-global-3gb-30d-1280.webp",
+      "airalo-global-3gb-30d-800.webp",
+      "airalo-global-3gb-30d-480.webp"
+    ],
+    "width": 6516,
+    "height": 4307,
+    "alt": "Airalo Global 3GB / 30d",
+    "artist": "Arne Müseler",
+    "license": "cc by-sa 3.0 de",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Brandenburg_Airport_Terminal_1.jpg",
+    "imageId": "wikimedia:95931964",
+    "query": "Airport terminal walkway at dawn",
+    "matchedStep": "airport terminal",
+    "score": 8,
+    "matchedWords": [
+      "terminal",
+      "airport",
+      "airport",
+      "terminal"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "mid-card",
+    "fetchedAt": "2026-11-09T21:32:49.370Z"
+  },
+  "nomad-global-5gb-30d": {
+    "files": [
+      "nomad-global-5gb-30d-1280.webp",
+      "nomad-global-5gb-30d-800.webp",
+      "nomad-global-5gb-30d-480.webp"
+    ],
+    "width": 1110,
+    "height": 617,
+    "alt": "Nomad Global 5GB / 30d",
+    "artist": "牙鷹州別駕不得簽書公事",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:GIB_Airport_PassportStamp.png",
+    "imageId": "wikimedia:148985463",
+    "query": "Passport stamps close-up on page",
+    "matchedStep": "passport stamps",
+    "score": 6,
+    "matchedWords": [
+      "passport",
+      "stamps",
+      "airport"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-09T21:33:09.985Z"
+  },
+  "ubigi-global-3gb-30d": {
+    "files": [
+      "ubigi-global-3gb-30d-1280.webp",
+      "ubigi-global-3gb-30d-800.webp",
+      "ubigi-global-3gb-30d-480.webp"
+    ],
+    "width": 5581,
+    "height": 3291,
+    "alt": "Ubigi Global 3GB / 30d",
+    "artist": "Jeffrey Beall",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Departures_hall_at_Aspen_Airport.JPG",
+    "imageId": "wikimedia:177309586",
+    "query": "Departures hall silhouette rows",
+    "matchedStep": "departures hall",
+    "score": 8,
+    "matchedWords": [
+      "departures",
+      "hall",
+      "airport",
+      "terminal",
+      "departure"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-09T21:33:29.840Z"
+  },
+  "gigsky-global-2gb-15d": {
+    "files": [
+      "gigsky-global-2gb-15d-1280.webp",
+      "gigsky-global-2gb-15d-800.webp",
+      "gigsky-global-2gb-15d-480.webp"
+    ],
+    "width": 2592,
+    "height": 1944,
+    "alt": "GigSky Global 2GB / 15d",
+    "artist": "Pjotr Mahhonin",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Star_Clipper_Gangway_Port_Side_Akandia_Harbour_Port_of_Rhodes_4_August_2025.jpg",
+    "imageId": "wikimedia:174495804",
+    "query": "Cruise ship gangway at port",
+    "matchedStep": "gangway port",
+    "score": 8,
+    "matchedWords": [
+      "gangway",
+      "cruise",
+      "ship",
+      "port"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-09T21:34:27.463Z"
+  },
+  "firsty-global-basic-free": {
+    "files": [
+      "firsty-global-basic-free-1280.webp",
+      "firsty-global-basic-free-800.webp",
+      "firsty-global-basic-free-480.webp"
+    ],
+    "width": 2592,
+    "height": 1944,
+    "alt": "Firsty Global Basic (free tier)",
+    "artist": "Tomwsulcer",
+    "license": "cc0",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Phone_charging_station_at_Newark_airport.JPG",
+    "imageId": "wikimedia:39153469",
+    "query": "Phone charging station at gate area",
+    "matchedStep": "phone charging station",
+    "score": 10,
+    "matchedWords": [
+      "charging",
+      "phone",
+      "station",
+      "airport"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "mid-card",
+    "fetchedAt": "2026-11-09T21:34:53.418Z"
+  },
+  "holafly-thailand-unlimited-30d": {
+    "files": [
+      "holafly-thailand-unlimited-30d-1280.webp",
+      "holafly-thailand-unlimited-30d-800.webp",
+      "holafly-thailand-unlimited-30d-480.webp"
+    ],
+    "width": 1024,
+    "height": 768,
+    "alt": "Holafly Thailand Unlimited / 30d",
+    "artist": "Stephen Craven",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Canal_boat_passing_Moss_Bridge_-_geograph.org.uk_-_6565601.jpg",
+    "imageId": "wikimedia:151282286",
+    "query": "Bangkok canal boat pier at dusk",
+    "matchedStep": "canal boat",
+    "score": 8,
+    "matchedWords": [
+      "canal",
+      "boat",
+      "city"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-09T21:35:55.275Z"
+  },
+  "holafly-vietnam-unlimited-20d": {
+    "files": [
+      "holafly-vietnam-unlimited-20d-1280.webp",
+      "holafly-vietnam-unlimited-20d-800.webp",
+      "holafly-vietnam-unlimited-20d-480.webp"
+    ],
+    "width": 3648,
+    "height": 2736,
+    "alt": "Holafly Vietnam Unlimited / 20d",
+    "artist": "Rept0n1x",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Liverpool_Lime_Street_frontage_-_DSC05931.JPG",
+    "imageId": "wikimedia:10496598",
+    "query": "Hoi An lantern-lit street frontage",
+    "matchedStep": "street frontage",
+    "score": 8,
+    "matchedWords": [
+      "frontage",
+      "street",
+      "street",
+      "station"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-09T21:36:16.691Z"
+  },
+  "maya-malaysia-unlimited-30d": {
+    "files": [
+      "maya-malaysia-unlimited-30d-1280.webp",
+      "maya-malaysia-unlimited-30d-800.webp",
+      "maya-malaysia-unlimited-30d-480.webp"
+    ],
+    "width": 5616,
+    "height": 3534,
+    "alt": "Maya Malaysia Unlimited / 30d",
+    "artist": "Bahnfrend",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_waterfront%2C_2024_(05).jpg",
+    "imageId": "wikimedia:149398236",
+    "query": "Kota Kinabalu waterfront boardwalk",
+    "matchedStep": "kota kinabalu waterfront",
+    "score": 7,
+    "matchedWords": [
+      "waterfront",
+      "kota",
+      "kinabalu"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-09T21:36:34.682Z"
+  },
+  "ubigi-thailand-unlimited-15d": {
+    "files": [
+      "ubigi-thailand-unlimited-15d-1280.webp",
+      "ubigi-thailand-unlimited-15d-800.webp",
+      "ubigi-thailand-unlimited-15d-480.webp"
+    ],
+    "width": 2592,
+    "height": 1458,
+    "alt": "Ubigi Thailand Unlimited / 15d",
+    "artist": "David McKelvey from Brisbane, Australia",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Longtail_boats%2C_Chao_Phraya_River%2C_Bangkok%2C_Thailand_(7053016143).jpg",
+    "imageId": "wikimedia:112987119",
+    "query": "Phuket longtail boats at pier",
+    "matchedStep": "longtail boats",
+    "score": 8,
+    "matchedWords": [
+      "longtail",
+      "boats",
+      "city"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-09T21:36:57.387Z"
+  },
+  "yesim-asia-unlimited-15d": {
+    "files": [
+      "yesim-asia-unlimited-15d-1280.webp",
+      "yesim-asia-unlimited-15d-800.webp",
+      "yesim-asia-unlimited-15d-480.webp"
+    ],
+    "width": 5184,
+    "height": 3888,
+    "alt": "Yesim Asia Unlimited / 15d",
+    "artist": "Christophe95",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Food_stall_at_the_Luang_Prabang_Morning_Market.jpg",
+    "imageId": "wikimedia:88994404",
+    "query": "Luang Prabang morning market stalls",
+    "matchedStep": "luang prabang morning market",
+    "score": 9,
+    "matchedWords": [
+      "market",
+      "luang",
+      "prabang",
+      "morning",
+      "stalls"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-09T21:37:16.700Z"
+  },
+  "holafly-europe-unlimited-30d": {
+    "files": [
+      "holafly-europe-unlimited-30d-1280.webp",
+      "holafly-europe-unlimited-30d-800.webp",
+      "holafly-europe-unlimited-30d-480.webp"
+    ],
+    "width": 6182,
+    "height": 4122,
+    "alt": "Holafly Europe Unlimited / 30d",
+    "artist": "Bvcmz248.5",
+    "license": "cc0",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:20260407_Frankreich_Paris_Nord_European_Sleeper_Train_Charter_Services_RDC_Deutschland_Liegewagen_Bvcmz_248_1_61805071115-8_D-BTEX.jpg",
+    "imageId": "wikimedia:188340779",
+    "query": "European sleeper train corridor",
+    "matchedStep": "european sleeper train",
+    "score": 10,
+    "matchedWords": [
+      "sleeper",
+      "european",
+      "train",
+      "train"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-09T21:37:30.768Z"
+  },
+  "nomad-thailand-20gb-30d": {
+    "files": [
+      "nomad-thailand-20gb-30d-1280.webp",
+      "nomad-thailand-20gb-30d-800.webp",
+      "nomad-thailand-20gb-30d-480.webp"
+    ],
+    "width": 1024,
+    "height": 768,
+    "alt": "Nomad Thailand 20GB / 30d",
+    "artist": "Arnaud 25",
+    "license": "public domain",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_de_Flore.jpg",
+    "imageId": "wikimedia:3730145",
+    "query": "Chiang Mai cafe workspace window view",
+    "matchedStep": "cafe",
+    "score": 6,
+    "matchedWords": [
+      "cafe",
+      "street"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-09T21:38:31.205Z"
+  },
+  "maya-malaysia-15gb-30d": {
+    "files": [
+      "maya-malaysia-15gb-30d-1280.webp",
+      "maya-malaysia-15gb-30d-800.webp",
+      "maya-malaysia-15gb-30d-480.webp"
+    ],
+    "width": 5424,
+    "height": 3606,
+    "alt": "Maya Malaysia 15GB / 30d",
+    "artist": "Photo: Jakub Hałun ; Graffiti: Pieksa",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Darth_Vader_mural_by_Pieksa_in_Krak%C3%B3w%2C_20210530_1744_3355_DxO.jpg",
+    "imageId": "wikimedia:106120259",
+    "query": "Georgetown mural street corner",
+    "matchedStep": "mural",
+    "score": 8,
+    "matchedWords": [
+      "mural",
+      "street",
+      "street"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "banner",
+    "fetchedAt": "2026-11-09T21:39:36.828Z"
+  },
+  "ubigi-vietnam-30gb-30d": {
+    "files": [
+      "ubigi-vietnam-30gb-30d-1280.webp",
+      "ubigi-vietnam-30gb-30d-800.webp",
+      "ubigi-vietnam-30gb-30d-480.webp"
+    ],
+    "width": 6022,
+    "height": 4024,
+    "alt": "Ubigi Vietnam 30GB / 30d",
+    "artist": "Gurval Le Bouter",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Saigon_skyline_night_view.jpg",
+    "imageId": "wikimedia:78494852",
+    "query": "Saigon skyline from rooftop at dusk",
+    "matchedStep": "saigon skyline",
+    "score": 8,
+    "matchedWords": [
+      "skyline",
+      "saigon",
+      "city"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-09T21:40:19.624Z"
+  },
+  "simify-asia-20gb-30d": {
+    "files": [
+      "simify-asia-20gb-30d-1280.webp",
+      "simify-asia-20gb-30d-800.webp",
+      "simify-asia-20gb-30d-480.webp"
+    ],
+    "width": 2000,
+    "height": 1333,
+    "alt": "Simify Asia 20GB / 30d",
+    "artist": "Chris Ikpemi",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Nile.University_Hostel_building_014.jpg",
+    "imageId": "wikimedia:110492899",
+    "query": "Backpacker hostel common room window light",
+    "matchedStep": "hostel common room",
+    "score": 5,
+    "matchedWords": [
+      "hostel",
+      "common",
+      "room"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-09T21:40:41.580Z"
+  },
+  "airalo-uae-3gb-30d": {
+    "files": [
+      "airalo-uae-3gb-30d-1280.webp",
+      "airalo-uae-3gb-30d-800.webp",
+      "airalo-uae-3gb-30d-480.webp"
+    ],
+    "width": 1229,
+    "height": 847,
+    "alt": "Airalo UAE 3GB / 30d",
+    "artist": "Imre Solt",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Dubai_Marina_Skyline_on_7_September_2007_Pict_1.jpg",
+    "imageId": "wikimedia:3261198",
+    "query": "Dubai Marina skyline from water taxi",
+    "matchedStep": "dubai marina skyline",
+    "score": 8,
+    "matchedWords": [
+      "marina",
+      "dubai",
+      "skyline",
+      "from"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-10T11:55:27.412Z"
+  },
+  "airalo-uae-10gb-30d": {
+    "files": [
+      "airalo-uae-10gb-30d-1280.webp",
+      "airalo-uae-10gb-30d-800.webp",
+      "airalo-uae-10gb-30d-480.webp"
+    ],
+    "width": 4000,
+    "height": 3000,
+    "alt": "Airalo UAE 10GB / 30d",
+    "artist": "EditQ",
+    "license": "cc0",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Sheikh_Zayed_Road_1.jpg",
+    "imageId": "wikimedia:140531253",
+    "query": "Sheikh Zayed Road traffic at dusk",
+    "matchedStep": "sheikh zayed road",
+    "score": 8,
+    "matchedWords": [
+      "road",
+      "sheikh",
+      "zayed"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-10T11:55:51.434Z"
+  },
+  "nomad-uae-5gb-30d": {
+    "files": [
+      "nomad-uae-5gb-30d-1280.webp",
+      "nomad-uae-5gb-30d-800.webp",
+      "nomad-uae-5gb-30d-480.webp"
+    ],
+    "width": 4256,
+    "height": 2832,
+    "alt": "Nomad UAE 5GB / 30d",
+    "artist": "Dosseman",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Aleppo_Great_Mosque_courtyard_9208.jpg",
+    "imageId": "wikimedia:101393694",
+    "query": "Abu Dhabi mosque courtyard arches",
+    "matchedStep": "mosque courtyard",
+    "score": 6,
+    "matchedWords": [
+      "mosque",
+      "courtyard"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "banner",
+    "fetchedAt": "2026-11-10T11:57:05.236Z"
+  },
+  "holafly-uae-unlimited-30d": {
+    "files": [
+      "holafly-uae-unlimited-30d-1280.webp",
+      "holafly-uae-unlimited-30d-800.webp",
+      "holafly-uae-unlimited-30d-480.webp"
+    ],
+    "width": 1400,
+    "height": 966,
+    "alt": "Holafly UAE Unlimited / 30d",
+    "artist": "Enrico Palma",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Desert_dune_-_Morocco.jpg",
+    "imageId": "wikimedia:195692170",
+    "query": "Desert dune ridge at sunset",
+    "matchedStep": "desert dune",
+    "score": 6,
+    "matchedWords": [
+      "dune",
+      "desert"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-10T11:57:58.919Z"
+  },
+  "airalo-egypt-3gb-30d": {
+    "files": [
+      "airalo-egypt-3gb-30d-1280.webp",
+      "airalo-egypt-3gb-30d-800.webp",
+      "airalo-egypt-3gb-30d-480.webp"
+    ],
+    "width": 5400,
+    "height": 3605,
+    "alt": "Airalo Egypt 3GB / 30d",
+    "artist": "Mona Hassan Abo-Abda",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Giza_Pyramids_during_%22Forever_is_Now%22_exhibition.jpg",
+    "imageId": "wikimedia:138415741",
+    "query": "Giza pyramids silhouette at dawn",
+    "matchedStep": "giza pyramids",
+    "score": 6,
+    "matchedWords": [
+      "pyramids",
+      "giza"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-10T11:58:31.889Z"
+  },
+  "airalo-egypt-10gb-30d": {
+    "files": [
+      "airalo-egypt-10gb-30d-1280.webp",
+      "airalo-egypt-10gb-30d-800.webp",
+      "airalo-egypt-10gb-30d-480.webp"
+    ],
+    "width": 1500,
+    "height": 1000,
+    "alt": "Airalo Egypt 10GB / 30d",
+    "artist": "Blue owl96",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Luxor_Temple_Columns.jpg",
+    "imageId": "wikimedia:62899510",
+    "query": "Luxor temple column close-up",
+    "matchedStep": "luxor temple column",
+    "score": 9,
+    "matchedWords": [
+      "temple",
+      "luxor",
+      "column",
+      "temple"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "mid-card",
+    "fetchedAt": "2026-11-10T11:58:56.514Z"
+  },
+  "airalo-turkey-3gb-30d": {
+    "files": [
+      "airalo-turkey-3gb-30d-1280.webp",
+      "airalo-turkey-3gb-30d-800.webp",
+      "airalo-turkey-3gb-30d-480.webp"
+    ],
+    "width": 4288,
+    "height": 2848,
+    "alt": "Airalo Turkey 3GB / 30d",
+    "artist": "Aleem Yousaf",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Blue_Mosque_(5990421820).jpg",
+    "imageId": "wikimedia:40195509",
+    "query": "Istanbul ferry crossing the Bosphorus",
+    "matchedStep": "ferry crossing bosphorus",
+    "score": 5,
+    "matchedWords": [
+      "ferry",
+      "crossing",
+      "bosphorus"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "banner",
+    "fetchedAt": "2026-11-10T11:59:15.203Z"
+  },
+  "airalo-turkey-10gb-30d": {
+    "files": [
+      "airalo-turkey-10gb-30d-1280.webp",
+      "airalo-turkey-10gb-30d-800.webp",
+      "airalo-turkey-10gb-30d-480.webp"
+    ],
+    "width": 7368,
+    "height": 4924,
+    "alt": "Airalo Turkey 10GB / 30d",
+    "artist": "Alexey V. Kurochkin",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Hot_air_balloons_IMGP1798p.jpg",
+    "imageId": "wikimedia:122085624",
+    "query": "Cappadocia hot air balloons at dawn",
+    "matchedStep": "hot air balloons",
+    "score": 7,
+    "matchedWords": [
+      "balloons",
+      "hot",
+      "air"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "banner",
+    "fetchedAt": "2026-11-10T12:00:13.985Z"
+  },
+  "nomad-turkey-5gb-30d": {
+    "files": [
+      "nomad-turkey-5gb-30d-1280.webp",
+      "nomad-turkey-5gb-30d-800.webp",
+      "nomad-turkey-5gb-30d-480.webp"
+    ],
+    "width": 4234,
+    "height": 2591,
+    "alt": "Nomad Turkey 5GB / 30d",
+    "artist": "Sludge G",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Ruins_of_Beckton_Gas_Works%2C_1994.jpg",
+    "imageId": "wikimedia:81076810",
+    "query": "Ephesus ancient library ruins",
+    "matchedStep": "ruins",
+    "score": 7,
+    "matchedWords": [
+      "ruins",
+      "station"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-10T12:01:16.442Z"
+  },
+  "saily-morocco-3gb-30d": {
+    "files": [
+      "saily-morocco-3gb-30d-1280.webp",
+      "saily-morocco-3gb-30d-800.webp",
+      "saily-morocco-3gb-30d-480.webp"
+    ],
+    "width": 5184,
+    "height": 3792,
+    "alt": "Saily Morocco 3GB / 30d",
+    "artist": "Petar Milošević",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Oriental_hanging_lanterns._Souk_Haddadine%2C_Marrakech_Medina_(%D8%B3%D9%88%D9%82_%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF%D9%8A%D9%86_%D9%85%D8%B1%D8%A7%D9%83%D8%B4).jpg",
+    "imageId": "wikimedia:153958715",
+    "query": "Marrakech medina alleyway shadows",
+    "matchedStep": "marrakech medina",
+    "score": 6,
+    "matchedWords": [
+      "medina",
+      "marrakech"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-10T12:01:42.867Z"
+  },
+  "airalo-mexico-3gb-30d": {
+    "files": [
+      "airalo-mexico-3gb-30d-1280.webp",
+      "airalo-mexico-3gb-30d-800.webp",
+      "airalo-mexico-3gb-30d-480.webp"
+    ],
+    "width": 3000,
+    "height": 2000,
+    "alt": "Airalo Mexico 3GB / 30d",
+    "artist": "GraziaMartaAnna",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:City_Angels_during_the_rap.jpg",
+    "imageId": "wikimedia:117563965",
+    "query": "Mexico City Angel of Independence monument",
+    "matchedStep": "city angel",
+    "score": 8,
+    "matchedWords": [
+      "angel",
+      "city",
+      "city"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-10T12:03:24.451Z"
+  },
+  "airalo-mexico-10gb-30d": {
+    "files": [
+      "airalo-mexico-10gb-30d-1280.webp",
+      "airalo-mexico-10gb-30d-800.webp",
+      "airalo-mexico-10gb-30d-480.webp"
+    ],
+    "width": 4032,
+    "height": 3024,
+    "alt": "Airalo Mexico 10GB / 30d",
+    "artist": "Erik Cleves Kristensen",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Maya_ruins_at_Tulum_-_Palms_and_beach.jpg",
+    "imageId": "wikimedia:139782091",
+    "query": "Tulum coastal road palm trees",
+    "matchedStep": "tulum",
+    "score": 8,
+    "matchedWords": [
+      "tulum",
+      "palm",
+      "beach"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-10T12:03:49.679Z"
+  },
+  "maya-mexico-5gb-30d": {
+    "files": [
+      "maya-mexico-5gb-30d-1280.webp",
+      "maya-mexico-5gb-30d-800.webp",
+      "maya-mexico-5gb-30d-480.webp"
+    ],
+    "width": 2560,
+    "height": 1920,
+    "alt": "Maya Mexico 5GB / 30d",
+    "artist": "Furkan Akkurt",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Street_mural_at_night_Yerevan_2026.jpg",
+    "imageId": "wikimedia:185838377",
+    "query": "Oaxaca colorful street mural",
+    "matchedStep": "colorful street mural",
+    "score": 7,
+    "matchedWords": [
+      "street",
+      "colorful",
+      "mural",
+      "street"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "mid-card",
+    "fetchedAt": "2026-11-10T12:04:15.144Z"
+  },
+  "holafly-mexico-unlimited-30d": {
+    "files": [
+      "holafly-mexico-unlimited-30d-1280.webp",
+      "holafly-mexico-unlimited-30d-800.webp",
+      "holafly-mexico-unlimited-30d-480.webp"
+    ],
+    "width": 3072,
+    "height": 2304,
+    "alt": "Holafly Mexico Unlimited / 30d",
+    "artist": "Drtberryman",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Cancun_Beach_Feb_2014.JPG",
+    "imageId": "wikimedia:31325768",
+    "query": "Cancun beach palapa shade",
+    "matchedStep": "cancun beach",
+    "score": 8,
+    "matchedWords": [
+      "beach",
+      "cancun",
+      "beach"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-10T12:04:42.107Z"
+  },
+  "airalo-brazil-3gb-30d": {
+    "files": [
+      "airalo-brazil-3gb-30d-1280.webp",
+      "airalo-brazil-3gb-30d-800.webp",
+      "airalo-brazil-3gb-30d-480.webp"
+    ],
+    "width": 3200,
+    "height": 2400,
+    "alt": "Airalo Brazil 3GB / 30d",
+    "artist": "acediscovery",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Christ-Redeemer-Rio-de-Janeiro.jpg",
+    "imageId": "wikimedia:120121437",
+    "query": "Rio de Janeiro Christ the Redeemer statue",
+    "matchedStep": "christ redeemer",
+    "score": 10,
+    "matchedWords": [
+      "redeemer",
+      "rio",
+      "de",
+      "janeiro",
+      "christ",
+      "statue"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-10T12:06:30.722Z"
+  },
+  "airalo-brazil-10gb-30d": {
+    "files": [
+      "airalo-brazil-10gb-30d-1280.webp",
+      "airalo-brazil-10gb-30d-800.webp",
+      "airalo-brazil-10gb-30d-480.webp"
+    ],
+    "width": 1024,
+    "height": 683,
+    "alt": "Airalo Brazil 10GB / 30d",
+    "artist": "DS Pugh",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Lilac_Avenue_traffic_lights_-_geograph.org.uk_-_8308804.jpg",
+    "imageId": "wikimedia:193275747",
+    "query": "Sao Paulo avenue traffic at night",
+    "matchedStep": "avenue traffic",
+    "score": 6,
+    "matchedWords": [
+      "avenue",
+      "traffic"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-10T12:07:45.496Z"
+  },
+  "nomad-brazil-5gb-30d": {
+    "files": [
+      "nomad-brazil-5gb-30d-1280.webp",
+      "nomad-brazil-5gb-30d-800.webp",
+      "nomad-brazil-5gb-30d-480.webp"
+    ],
+    "width": 1024,
+    "height": 768,
+    "alt": "Nomad Brazil 5GB / 30d",
+    "artist": "David Stanley from Nanaimo, Canada",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Pelourinho_(23227871045).jpg",
+    "imageId": "wikimedia:96719139",
+    "query": "Salvador pelourinho cobblestone street",
+    "matchedStep": "pelourinho",
+    "score": 7,
+    "matchedWords": [
+      "pelourinho",
+      "island"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-10T12:08:30.480Z"
+  },
+  "airalo-colombia-3gb-30d": {
+    "files": [
+      "airalo-colombia-3gb-30d-1280.webp",
+      "airalo-colombia-3gb-30d-800.webp",
+      "airalo-colombia-3gb-30d-480.webp"
+    ],
+    "width": 2080,
+    "height": 1544,
+    "alt": "Airalo Colombia 3GB / 30d",
+    "artist": "Staticshakedown",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Telegrafico_medellin_cable_car.JPG",
+    "imageId": "wikimedia:27323683",
+    "query": "Medellin cable car over city",
+    "matchedStep": "medellin cable car",
+    "score": 7,
+    "matchedWords": [
+      "cable",
+      "medellin",
+      "car"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-10T12:09:00.915Z"
+  },
+  "airalo-colombia-10gb-30d": {
+    "files": [
+      "airalo-colombia-10gb-30d-1280.webp",
+      "airalo-colombia-10gb-30d-800.webp",
+      "airalo-colombia-10gb-30d-480.webp"
+    ],
+    "width": 2272,
+    "height": 1704,
+    "alt": "Airalo Colombia 10GB / 30d",
+    "artist": "Globetrotter19",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Balcony%2C_flowers%2C_Di%C3%B3fa_Street%2C_2020_Nyerges%C3%BAjfalu.jpg",
+    "imageId": "wikimedia:93382560",
+    "query": "Cartagena colonial balcony flowers",
+    "matchedStep": "balcony flowers",
+    "score": 6,
+    "matchedWords": [
+      "balcony",
+      "flowers",
+      "street"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-10T12:09:52.006Z"
+  },
+  "saily-latam-5gb-30d": {
+    "files": [
+      "saily-latam-5gb-30d-1280.webp",
+      "saily-latam-5gb-30d-800.webp",
+      "saily-latam-5gb-30d-480.webp"
+    ],
+    "width": 2575,
+    "height": 1931,
+    "alt": "Saily LATAM 5GB / 30d",
+    "artist": "MattWithX1",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Andes_mountain_range_and_lake_Llanquihue_in_Winter%2C_Chile_June_2025_02.jpg",
+    "imageId": "wikimedia:196306859",
+    "query": "Andes mountain pass road",
+    "matchedStep": "andes mountain",
+    "score": 6,
+    "matchedWords": [
+      "andes",
+      "mountain"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-10T12:10:42.340Z"
+  },
+  "airalo-south-africa-3gb-30d": {
+    "files": [
+      "airalo-south-africa-3gb-30d-1280.webp",
+      "airalo-south-africa-3gb-30d-800.webp",
+      "airalo-south-africa-3gb-30d-480.webp"
+    ],
+    "width": 2592,
+    "height": 1944,
+    "alt": "Airalo South Africa 3GB / 30d",
+    "artist": "Entropy1963",
+    "license": "public domain",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Table_Mountain_Cable_car.jpg",
+    "imageId": "wikimedia:12695199",
+    "query": "Table Mountain cable car station",
+    "matchedStep": "table mountain cable car",
+    "score": 9,
+    "matchedWords": [
+      "mountain",
+      "table",
+      "cable",
+      "car"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-10T12:11:14.967Z"
+  },
+  "airalo-south-africa-10gb-30d": {
+    "files": [
+      "airalo-south-africa-10gb-30d-1280.webp",
+      "airalo-south-africa-10gb-30d-800.webp",
+      "airalo-south-africa-10gb-30d-480.webp"
+    ],
+    "width": 2304,
+    "height": 3072,
+    "alt": "Airalo South Africa 10GB / 30d",
+    "artist": "Kotivalo",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Colorful_Bo-Kaap_district_in_Cape_Town.jpg",
+    "imageId": "wikimedia:34957559",
+    "query": "Cape Town colorful bo-kaap houses",
+    "matchedStep": "colorful bo-kaap",
+    "score": 8,
+    "matchedWords": [
+      "bo-kaap",
+      "cape",
+      "town",
+      "colorful"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-10T12:12:19.511Z"
+  },
+  "ubigi-south-africa-5gb-30d": {
+    "files": [
+      "ubigi-south-africa-5gb-30d-1280.webp",
+      "ubigi-south-africa-5gb-30d-800.webp",
+      "ubigi-south-africa-5gb-30d-480.webp"
+    ],
+    "width": 6720,
+    "height": 4480,
+    "alt": "Ubigi South Africa 5GB / 30d",
+    "artist": "Dietmar Rabich",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Sydney_(AU)%2C_Coastal_Cliff_Walk_--_2019_--_2335.jpg",
+    "imageId": "wikimedia:85128036",
+    "query": "Garden Route coastal cliff edge",
+    "matchedStep": "coastal cliff",
+    "score": 8,
+    "matchedWords": [
+      "cliff",
+      "coastal",
+      "beach"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-10T12:13:36.215Z"
+  },
+  "airalo-kenya-3gb-30d": {
+    "files": [
+      "airalo-kenya-3gb-30d-1280.webp",
+      "airalo-kenya-3gb-30d-800.webp",
+      "airalo-kenya-3gb-30d-480.webp"
+    ],
+    "width": 3264,
+    "height": 2448,
+    "alt": "Airalo Kenya 3GB / 30d",
+    "artist": "Wilson44691",
+    "license": "public domain",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Acacia_Negev.JPG",
+    "imageId": "wikimedia:3793531",
+    "query": "Masai Mara acacia tree silhouette",
+    "matchedStep": "acacia tree",
+    "score": 5,
+    "matchedWords": [
+      "acacia",
+      "tree"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-10T12:14:56.811Z"
+  },
+  "airalo-kenya-10gb-30d": {
+    "files": [
+      "airalo-kenya-10gb-30d-1280.webp",
+      "airalo-kenya-10gb-30d-800.webp",
+      "airalo-kenya-10gb-30d-480.webp"
+    ],
+    "width": 6000,
+    "height": 4000,
+    "alt": "Airalo Kenya 10GB / 30d",
+    "artist": "Shadychiri",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:A_clash_of_worlds_-_Nairobi_skyline_from_the_Nairobi_National_park.jpg",
+    "imageId": "wikimedia:175721256",
+    "query": "Nairobi skyline from park",
+    "matchedStep": "nairobi skyline from",
+    "score": 8,
+    "matchedWords": [
+      "skyline",
+      "nairobi",
+      "from",
+      "park"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-10T12:15:28.156Z"
+  },
+  "nomad-kenya-5gb-30d": {
+    "files": [
+      "nomad-kenya-5gb-30d-1280.webp",
+      "nomad-kenya-5gb-30d-800.webp",
+      "nomad-kenya-5gb-30d-480.webp"
+    ],
+    "width": 2592,
+    "height": 1944,
+    "alt": "Nomad Kenya 5GB / 30d",
+    "artist": "David Adam Kess",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:(main_entrance%2C_hand_carved_wooden_door)_La_Coupole_Hotel%2C_Quito.jpg",
+    "imageId": "wikimedia:81591390",
+    "query": "Mombasa old town carved wooden door",
+    "matchedStep": "carved wooden door",
+    "score": 9,
+    "matchedWords": [
+      "door",
+      "carved",
+      "wooden",
+      "city"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-10T12:16:19.190Z"
+  },
+  "airalo-mauritius-3gb-30d": {
+    "files": [
+      "airalo-mauritius-3gb-30d-1280.webp",
+      "airalo-mauritius-3gb-30d-800.webp",
+      "airalo-mauritius-3gb-30d-480.webp"
+    ],
+    "width": 2816,
+    "height": 2112,
+    "alt": "Airalo Mauritius 3GB / 30d",
+    "artist": "Paulnew",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Mauritius_Chamarel_Seven_Colorous_Earth.jpg",
+    "imageId": "wikimedia:3547117",
+    "query": "Mauritius chamarel colored earth dunes",
+    "matchedStep": "mauritius chamarel",
+    "score": 7,
+    "matchedWords": [
+      "chamarel",
+      "mauritius",
+      "earth"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-10T12:17:04.307Z"
+  },
+  "airalo-nigeria-3gb-30d": {
+    "files": [
+      "airalo-nigeria-3gb-30d-1280.webp",
+      "airalo-nigeria-3gb-30d-800.webp",
+      "airalo-nigeria-3gb-30d-480.webp"
+    ],
+    "width": 5184,
+    "height": 3456,
+    "alt": "Airalo Nigeria 3GB / 30d",
+    "artist": "Yemi festus",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Wide-angle_shot_of_the_lagos_third_mainland_bridge.jpg",
+    "imageId": "wikimedia:104800881",
+    "query": "Lagos third mainland bridge traffic",
+    "matchedStep": "lagos third mainland bridge",
+    "score": 8,
+    "matchedWords": [
+      "bridge",
+      "lagos",
+      "third",
+      "mainland"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-10T12:17:28.984Z"
+  },
+  "airalo-nigeria-10gb-30d": {
+    "files": [
+      "airalo-nigeria-10gb-30d-1280.webp",
+      "airalo-nigeria-10gb-30d-800.webp",
+      "airalo-nigeria-10gb-30d-480.webp"
+    ],
+    "width": 2288,
+    "height": 1712,
+    "alt": "Airalo Nigeria 10GB / 30d",
+    "artist": "Shiraz Chakera",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:AbujaNationalMosque.jpg",
+    "imageId": "wikimedia:2877072",
+    "query": "Abuja national mosque minaret",
+    "matchedStep": "abuja national mosque",
+    "score": 7,
+    "matchedWords": [
+      "mosque",
+      "abuja",
+      "national"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "mid-card",
+    "fetchedAt": "2026-11-10T12:17:51.289Z"
+  },
+  "saily-africa-5gb-30d": {
+    "files": [
+      "saily-africa-5gb-30d-1280.webp",
+      "saily-africa-5gb-30d-800.webp",
+      "saily-africa-5gb-30d-480.webp"
+    ],
+    "width": 2731,
+    "height": 2048,
+    "alt": "Saily Africa 5GB / 30d",
+    "artist": "Kilimanjaro Lifetime Adventures",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_snow_peak.jpg",
+    "imageId": "wikimedia:147887943",
+    "query": "Kilimanjaro snow cap from plains",
+    "matchedStep": "kilimanjaro snow",
+    "score": 6,
+    "matchedWords": [
+      "kilimanjaro",
+      "snow"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "banner",
+    "fetchedAt": "2026-11-10T12:18:39.905Z"
+  },
+  "airalo-australia-3gb-30d": {
+    "files": [
+      "airalo-australia-3gb-30d-1280.webp",
+      "airalo-australia-3gb-30d-800.webp",
+      "airalo-australia-3gb-30d-480.webp"
+    ],
+    "width": 4642,
+    "height": 2763,
+    "alt": "Airalo Australia 3GB / 30d",
+    "artist": "Robyn Jay from Sydney, Australia",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Vivid_Sydney_-_Opera_House_sails_(9003662056).jpg",
+    "imageId": "wikimedia:39262724",
+    "query": "Sydney opera house sails close up",
+    "matchedStep": "sydney opera house sails",
+    "score": 8,
+    "matchedWords": [
+      "opera",
+      "sydney",
+      "house",
+      "sails"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-10T12:19:23.983Z"
+  },
+  "airalo-australia-10gb-30d": {
+    "files": [
+      "airalo-australia-10gb-30d-1280.webp",
+      "airalo-australia-10gb-30d-800.webp",
+      "airalo-australia-10gb-30d-480.webp"
+    ],
+    "width": 5993,
+    "height": 3470,
+    "alt": "Airalo Australia 10GB / 30d",
+    "artist": "Radomianin",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Wustrow_peninsula_beach_with_coastal_cliffs%2C_2026-09-07.jpg",
+    "imageId": "wikimedia:201347277",
+    "query": "Great Ocean Road coastal cliff",
+    "matchedStep": "coastal cliff",
+    "score": 8,
+    "matchedWords": [
+      "cliff",
+      "coastal",
+      "beach"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-10T12:20:21.628Z"
+  },
+  "nomad-australia-5gb-30d": {
+    "files": [
+      "nomad-australia-5gb-30d-1280.webp",
+      "nomad-australia-5gb-30d-800.webp",
+      "nomad-australia-5gb-30d-480.webp"
+    ],
+    "width": 4592,
+    "height": 3056,
+    "alt": "Nomad Australia 5GB / 30d",
+    "artist": "JFP93",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_laneway_art.jpg",
+    "imageId": "wikimedia:83079721",
+    "query": "Melbourne laneway street art",
+    "matchedStep": "melbourne laneway",
+    "score": 10,
+    "matchedWords": [
+      "laneway",
+      "melbourne",
+      "street",
+      "art",
+      "street"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "mid-card",
+    "fetchedAt": "2026-11-10T12:21:11.642Z"
+  },
+  "airalo-new-zealand-3gb-30d": {
+    "files": [
+      "airalo-new-zealand-3gb-30d-1280.webp",
+      "airalo-new-zealand-3gb-30d-800.webp",
+      "airalo-new-zealand-3gb-30d-480.webp"
+    ],
+    "width": 3943,
+    "height": 2642,
+    "alt": "Airalo New Zealand 3GB / 30d",
+    "artist": "Krzysztof Golik",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Milford_Sound_in_Fiordland_National_Park_18.jpg",
+    "imageId": "wikimedia:67413367",
+    "query": "Milford Sound fjord water reflection",
+    "matchedStep": "milford sound",
+    "score": 8,
+    "matchedWords": [
+      "milford",
+      "sound",
+      "island"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "banner",
+    "fetchedAt": "2026-11-10T12:21:49.817Z"
+  },
+  "airalo-new-zealand-10gb-30d": {
+    "files": [
+      "airalo-new-zealand-10gb-30d-1280.webp",
+      "airalo-new-zealand-10gb-30d-800.webp",
+      "airalo-new-zealand-10gb-30d-480.webp"
+    ],
+    "width": 3970,
+    "height": 2470,
+    "alt": "Airalo New Zealand 10GB / 30d",
+    "artist": "Deluxe-Apple",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Wards_of_Queenstown-Lakes_District.png",
+    "imageId": "wikimedia:168479950",
+    "query": "Queenstown lake and mountains view",
+    "matchedStep": "queenstown lake",
+    "score": 6,
+    "matchedWords": [
+      "lake",
+      "queenstown"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-10T12:22:45.388Z"
+  },
+  "ubigi-oceania-5gb-30d": {
+    "files": [
+      "ubigi-oceania-5gb-30d-1280.webp",
+      "ubigi-oceania-5gb-30d-800.webp",
+      "ubigi-oceania-5gb-30d-480.webp"
+    ],
+    "width": 1500,
+    "height": 857,
+    "alt": "Ubigi Oceania 5GB / 30d",
+    "artist": "Hicks, William",
+    "license": "cc by",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Alpine_Train_Depot_-_DPLA_-_74d3aa8965e251552e7c27e80cc6fa30.jpg",
+    "imageId": "wikimedia:191433134",
+    "query": "Trans alpine train carriage window",
+    "matchedStep": "alpine train",
+    "score": 8,
+    "matchedWords": [
+      "train",
+      "alpine",
+      "train"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "thumb-side",
+    "fetchedAt": "2026-11-10T12:23:36.797Z"
+  },
+  "airalo-caribbean-3gb-30d": {
+    "files": [
+      "airalo-caribbean-3gb-30d-1280.webp",
+      "airalo-caribbean-3gb-30d-800.webp",
+      "airalo-caribbean-3gb-30d-480.webp"
+    ],
+    "width": 2852,
+    "height": 1536,
+    "alt": "Airalo Caribbean 3GB / 30d",
+    "artist": "Kgbo",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Palm_trees_at_Palm_Cove_Beach%2C_Queensland%2C_2020%2C_04.jpg",
+    "imageId": "wikimedia:92700786",
+    "query": "Caribbean beach palm tree shade",
+    "matchedStep": "beach palm tree",
+    "score": 5,
+    "matchedWords": [
+      "beach",
+      "palm",
+      "tree"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-10T12:24:33.951Z"
+  },
+  "airalo-caribbean-10gb-30d": {
+    "files": [
+      "airalo-caribbean-10gb-30d-1280.webp",
+      "airalo-caribbean-10gb-30d-800.webp",
+      "airalo-caribbean-10gb-30d-480.webp"
+    ],
+    "width": 4000,
+    "height": 3000,
+    "alt": "Airalo Caribbean 10GB / 30d",
+    "artist": "Laslovarga",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Classic_cars_in_Cuba%2C_Havana_-_Laslovarga004.JPG",
+    "imageId": "wikimedia:37167991",
+    "query": "Havana classic car street frontage",
+    "matchedStep": "havana classic car",
+    "score": 6,
+    "matchedWords": [
+      "havana",
+      "classic",
+      "car",
+      "street"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "float-right",
+    "fetchedAt": "2026-11-10T12:25:03.090Z"
+  },
+  "nomad-caribbean-5gb-30d": {
+    "files": [
+      "nomad-caribbean-5gb-30d-1280.webp",
+      "nomad-caribbean-5gb-30d-800.webp",
+      "nomad-caribbean-5gb-30d-480.webp"
+    ],
+    "width": 3227,
+    "height": 2130,
+    "alt": "Nomad Caribbean 5GB / 30d",
+    "artist": "Waldrop Photographic Co., San Juan",
+    "license": "public domain",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:San_Juan_-_Fort_San_Cristobal.jpg",
+    "imageId": "wikimedia:163064126",
+    "query": "San Juan fort stone walls",
+    "matchedStep": "san juan fort",
+    "score": 10,
+    "matchedWords": [
+      "fort",
+      "san",
+      "juan",
+      "city"
+    ],
+    "needsAttribution": false,
+    "focus": "center",
+    "variant": "float-left",
+    "fetchedAt": "2026-11-10T12:25:45.636Z"
+  },
+  "holafly-global-unlimited-30d": {
+    "files": [
+      "holafly-global-unlimited-30d-1280.webp",
+      "holafly-global-unlimited-30d-800.webp",
+      "holafly-global-unlimited-30d-480.webp"
+    ],
+    "width": 11054,
+    "height": 1621,
+    "alt": "Holafly Global Unlimited / 30d",
+    "artist": "Michael F. Mehnert",
+    "license": "cc by-sa",
+    "licenseUrl": "",
+    "source": "Wikimedia Commons",
+    "originalUrl": "https://commons.wikimedia.org/wiki/File:Gibraltar_Airport_panorama.jpg",
+    "imageId": "wikimedia:2851162",
+    "query": "Airport globe map display board",
+    "matchedStep": "airport",
+    "score": 7,
+    "matchedWords": [
+      "airport",
+      "airport"
+    ],
+    "needsAttribution": true,
+    "focus": "center",
+    "variant": "hero-wide",
+    "fetchedAt": "2026-11-10T12:26:38.895Z"
+  }
+}

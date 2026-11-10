@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F2F1EC"/>
+  <rect x="4" y="4" width="1192" height="622" fill="none" stroke="#141414" stroke-width="8"/>
+  <polygon points="1200,0 1200,90 1110,0" fill="#FAFAF7"/>
+  <rect x="60" y="60" width="150" height="150" fill="#B93D1A"/>
+  <text x="135" y="158" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF" text-anchor="middle">HO</text>
+  <text x="60" y="300" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#141414">Holafly Thailand Unlimited / 30d</text>
+  <text x="60" y="430" font-family="Arial, sans-serif" font-size="110" font-weight="bold" fill="#B93D1A">UNLIMITED*</text>
+  <text x="60" y="500" font-family="Arial, sans-serif" font-size="36" fill="#141414">30 days · TH</text>
+  <text x="60" y="560" font-family="Arial, sans-serif" font-size="36" fill="#555555">$78 (estimate) *fair-use · WATCH</text>
+  <path d="M700 560 L760 500 L820 540 L880 470 L940 520 L1000 460 L1060 510 L1120 450" fill="none" stroke="#141414" stroke-width="6" stroke-dasharray="14 10"/>
+</svg>

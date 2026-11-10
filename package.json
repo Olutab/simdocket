@@ -1,0 +1,17 @@
+{
+  "name": "simdocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+      "scripts": {
+    "images": "node scripts/fetch-images.mjs",
+    "build:all": "node scripts/validate-chunk.mjs data/matrix.txt && node scripts/export-tool-data.mjs && cd tool && npm ci && npm run build && cd .. && node scripts/build.mjs && node scripts/sitemap.mjs && node scripts/og-gen.mjs && node scripts/verify-images.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}
