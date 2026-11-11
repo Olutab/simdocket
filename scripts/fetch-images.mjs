@@ -80,6 +80,15 @@ async function getInfoByTitle(title) {
     categories: (page.categories || []).map(c => c.title.replace(/^Category:/, '')) };
 }
 
+function licenseUrlFor(lic) {
+  const l = (lic || '').toLowerCase();
+  const v = (l.match(/(\d\.\d)/) || [])[1] || '4.0';
+  if (l.startsWith('cc0')) return 'https://creativecommons.org/publicdomain/zero/1.0/';
+  if (l.includes('by-sa')) return `https://creativecommons.org/licenses/by-sa/${v}/`;
+  if (l.startsWith('cc by')) return `https://creativecommons.org/licenses/by/${v}/`;
+  if (l.includes('public domain')) return 'https://creativecommons.org/publicdomain/mark/1.0/';
+  return '';
+}
 const okLicense = (lic) => !!lic && !lic.includes('nc') && !lic.includes('nd') &&
   ['cc0', 'public domain', 'cc by', 'cc by-sa'].some(a => lic.startsWith(a));
 
@@ -172,7 +181,7 @@ async function processRow(row) {
   manifest[slug] = {
     files: [`${slug}-1280.webp`, `${slug}-800.webp`, `${slug}-480.webp`],
     width: chosen.width, height: chosen.height, alt: row.entity_name,
-    artist: chosen.artist, license: chosen.license, licenseUrl: chosen.originalUrl ? '' : '',
+    artist: chosen.artist, license: chosen.license,     licenseUrl: licenseUrlFor(chosen.license),
     source: 'Wikimedia Commons', originalUrl: `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(chosen.title.replace(/ /g, '_'))}`,
     imageId: chosen.imageId, query: row.image_query, matchedStep, score: chosen.relScore,
     matchedWords: chosen.matchedWords, needsAttribution: !['cc0', 'public domain'].includes(chosen.license),

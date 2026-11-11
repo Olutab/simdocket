@@ -2,7 +2,7 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from 'node:fs';
 import sharp from 'sharp';
 
-const DNA = { bg: '#FAF7F2', ink: '#2B2B2B', accent: '#8B5A3C', warning: '#4A6D7C' };
+const DNA = { bg: '#0B0E14', ink: '#F2F5F9', accent: '#FF6B3D', warning: '#FFB84D' };
 const OUT = './dist/og';
 mkdirSync(OUT, { recursive: true });
 
@@ -47,7 +47,7 @@ async function makeOg(slug, title, datapoint, label, photoPath) {
 }
 
 (async () => {
-  const planPages = pages.filter(p => p.loc.startsWith('/plans/'));
+ const planPages = pages.filter(p => p.loc.startsWith('/plans/') && !p.loc.startsWith('/plans/page/'));
   let done = 0, skipped = 0;
   for (const p of planPages) {
     const slug = p.loc.replace(/^\/plans\//, '').replace(/\/$/, '');
