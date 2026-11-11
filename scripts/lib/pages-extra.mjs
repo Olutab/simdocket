@@ -144,6 +144,7 @@ export function renderHomeV2(rows, manifest) {
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>SIMDOCKET — eSIM comparisons for real multi-country itineraries</title>
+<meta name="google-site-verification" content="Esl2MXvFiQBS6xZwCQSEQwKdE_mYnsAHNilOoBW1mxo" />
 <meta name="description" content="SIMDOCKET compares ${rows.length} eSIM plans across ${providers.size} providers by real cost per GB, coverage overlap and network quality — ranked for the route you're actually flying.">
 <link rel="canonical" href="https://simdocket.example/">
 <meta property="og:title" content="SIMDOCKET — eSIM comparisons for real itineraries">
