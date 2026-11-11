@@ -102,6 +102,7 @@ function head(r, title, desc, up, ogImage) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${fit(title, 60)}</title>
+<meta name="google-site-verification" content="Esl2MXvFiQBS6xZwCQSEQwKdE_mYnsAHNilOoBW1mxo" />
 <meta name="description" content="${fit(desc, 158)}">
 <link rel="canonical" href="${SITE_URL}/plans/${r.slug}/">
 <meta property="og:title" content="${fit(title, 60)}">
