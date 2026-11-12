@@ -3,7 +3,7 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import sharp from 'sharp';
 import { hash, ladder, relevance, units, re, pickVariant } from './lib/images-core.mjs';
 
-const UA = 'SIMDOCKET-imagebot/1.0 (https://simdocket.example)';
+const UA = 'SIMDOCKET-imagebot/1.0 (https://simdocket.netlify.app)';
 const WIKI_BASE = 'https://commons.wikimedia.org/w/api.php';
 
 const args = process.argv.slice(2);
