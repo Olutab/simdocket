@@ -7,8 +7,7 @@ import { placePhoto, licenseUrlFor } from './photo-html.mjs';
 import { navHtml, renderPlansIndex, renderRoutes, renderHomeV2, renderProviderPage, PLAN_SIZE } from './lib/pages-extra.mjs';
 import { renderAbout, renderContact, renderPrivacy, renderTerms, renderEditorial, renderFAQ } from './lib/trust-pages.mjs';
 
-const SITE_URL = process.env.SITE_URL || 'https://simdocket.example';
-const TODAY = new Date().toISOString().slice(0, 10);
+const SITE_URL = process.env.SITE_URL || 'https://simdocket.netlify.app';const TODAY = new Date().toISOString().slice(0, 10);
 const DIST = './dist';
 const manifest = existsSync('./images.manifest.json') ? JSON.parse(readFileSync('./images.manifest.json', 'utf8')) : {};
 const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">`;

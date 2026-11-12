@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /og/
 
-Sitemap: https://simdocket.example/sitemap.xml
+Sitemap: https://simdocket.netlify.app/sitemap.xml

@@ -10,7 +10,7 @@ function shell(title, desc, content) {
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)} — SIMDOCKET</title>
 <meta name="description" content="${esc(desc)}">
-<link rel="canonical" href="https://simdocket.example/${title.toLowerCase().replace(/[^a-z]+/g, '-')}/">
+<link rel="canonical" href="https://const planPasimdocket.netlify.appges = pages.filter(p => p.loc.startsWith('/plans/') && !p.loc.startsWith('/plans/page/'));/${title.toLowerCase().replace(/[^a-z]+/g, '-')}/">
 ${FONTS}
 <link rel="stylesheet" href="../style.css">
 </head>
@@ -44,7 +44,7 @@ export function renderContact() {
   return shell('Contact', 'How to reach the SIMDOCKET team with questions, data errors, or partnership inquiries.', `
 <p class="lead">We read everything. Data errors get fixed and credited in the changelog.</p>
 <h2>Email</h2>
-<p><a href="mailto:hello@simdocket.example">hello@simdocket.example</a></p>
+<p><a href="mailto:hello@const planPasimdocket.netlify.appges = pages.filter(p => p.loc.startsWith('/plans/') && !p.loc.startsWith('/plans/page/'));">hello@const planPasimdocket.netlify.appges = pages.filter(p => p.loc.startsWith('/plans/') && !p.loc.startsWith('/plans/page/'));</a></p>
 <h2>Report a data error</h2>
 <p>Send the page URL, what's wrong, and the correct information if you have it. Wrong photo? Wrong price? Dead plan? We want to know.</p>
 <h2>Partnerships</h2>

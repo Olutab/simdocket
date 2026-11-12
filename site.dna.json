@@ -1,6 +1,6 @@
 {
   "project": "SIMDOCKET",
-  "site_url": "https://simdocket.example",
+  "site_url": "https://simdocket.netlify.app",
   "tagline": "File the right eSIM for the route you're actually flying.",
   "layout_archetype": {
     "choice": "Editorial magazine",

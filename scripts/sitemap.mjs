@@ -2,7 +2,7 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { existsSync } from 'node:fs';
 
-const SITE_URL = process.env.SITE_URL || 'https://simdocket.example';
+const SITE_URL = process.env.SITE_URL || 'https://simdocket.netlify.app';
 const CHUNK = 1000;
 const PAGES = './dist/pages.json';
 

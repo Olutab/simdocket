@@ -32,7 +32,7 @@ function shell(title, desc, body, canonical, up = '../') {
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)} | SIMDOCKET</title>
 <meta name="description" content="${esc(desc)}">
-<link rel="canonical" href="https://simdocket.example${canonical}">
+<link rel="canonical" href="https://simdocket.netlify.app${canonical}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${up}style.css">
@@ -146,7 +146,7 @@ export function renderHomeV2(rows, manifest) {
 <title>SIMDOCKET — eSIM comparisons for real multi-country itineraries</title>
 <meta name="google-site-verification" content="Esl2MXvFiQBS6xZwCQSEQwKdE_mYnsAHNilOoBW1mxo" />
 <meta name="description" content="SIMDOCKET compares ${rows.length} eSIM plans across ${providers.size} providers by real cost per GB, coverage overlap and network quality — ranked for the route you're actually flying.">
-<link rel="canonical" href="https://simdocket.example/">
+<link rel="canonical" href="https://const planPasimdocket.netlify.appges = pages.filter(p => p.loc.startsWith('/plans/') && !p.loc.startsWith('/plans/page/'));/">
 <meta property="og:title" content="SIMDOCKET — eSIM comparisons for real itineraries">
 <meta property="og:description" content="Compare eSIM plans by real cost per GB and coverage overlap, ranked for your exact multi-country route.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
