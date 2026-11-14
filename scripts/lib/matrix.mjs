@@ -50,9 +50,7 @@ function withComputed(r) {
   r.unlimited = r.cap_gb === -1;
   r.countries = r.coverage_codes.split(' ').filter(Boolean);
   r.estimated = r.auditing_status === 'ESTIMATED';
-  r.price_per_gb = r.unlimited
-    ? (r.fup_threshold_gb ? Number((r.price / Number(r.fup_threshold_gb)).toFixed(2)) : null)
-    : Number((r.price / r.cap_gb).toFixed(2));
+  r.price_per_gb = r.unlimited ? null : Number((r.price / r.cap_gb).toFixed(2));
   r.daily_cost = Number((r.price / r.days).toFixed(2));
   return r;
 }

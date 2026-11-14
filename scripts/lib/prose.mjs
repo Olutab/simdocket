@@ -29,15 +29,21 @@ export function directAnswer(r) {
 }
 
 export function scenario(r) {
-  const dailyNeed = { LIGHT: 0.25, STANDARD: 0.5, HEAVY: 1.5, LONGSTAY: 1, BACKUP: 0.1 }[r.best_for];
   if (r.unlimited) {
-    return `A ${r.best_for === 'HEAVY' ? 'video-call-heavy' : 'typical'} day uses roughly ${dailyNeed}–1.5 GB. With a fair-use plan you stop counting gigabytes, but assume the provider may slow you after sustained heavy use${r.fup_threshold_gb ? ` — this one is modeled at ~${r.fup_threshold_gb} GB/day of full speed` : ''}. Budget your heaviest days first.`;
+    return `With a fair-use plan you stop counting gigabytes, but not expectations: assume full speed up to the provider's daily allowance${r.fup_threshold_gb ? ` (modeled here at ~${r.fup_threshold_gb} GB/day)` : ' (unpublished, so budget conservatively)'}, then reduced speeds after. Plan heavy video-call days first, streaming last.`;
   }
-  const use = Number((dailyNeed * Math.min(r.days, 30)).toFixed(1));
-  const left = Number((r.cap_gb - use).toFixed(1));
-  return `Typical ${BEST_FOR_TEXT[r.best_for]} burns about ${dailyNeed} GB/day. Over a ${Math.min(r.days, 30)}-day stretch that's roughly ${use} GB — leaving ${left > 0 ? left + ' GB of headroom' : 'a shortfall, so plan a top-up'} on this ${r.cap_gb} GB plan. Navigation and messaging barely register; video is what eats the cap.`;
+  const days = Math.min(r.days, 30);
+  const cap = r.cap_gb;
+  const perDay = Number((cap / days).toFixed(2));
+  if (cap <= 3) {
+    return `${cap} GB across ${days} days is ${perDay} GB/day: maps, ride-hailing, messaging and light browsing. No video calls, no cloud backups — one ten-minute video call can burn half a gig. The right size for beach weeks and city wandering with Wi-Fi-friendly evenings; the wrong size if your laptop tethers.`;
+  }
+  if (cap <= 10) {
+    const pace = days <= 14 ? 'a comfortable two-week pace' : 'a light month-long pace';
+    return `${cap} GB across ${days} days is ${perDay} GB/day — ${pace}: all-day navigation, social feeds, music, and a few short video calls each week. Lean on hotel and café Wi-Fi for anything heavy and the cap holds; ignore Wi-Fi entirely and you'll be topping up in week two.`;
+  }
+  return `${cap} GB across ${days} days is ${perDay} GB/day — working-travel territory: daily hotspot sessions, cloud photo backups and regular video calls without rationing. If you stream video on the move or tether a laptop every day, this is the size that keeps top-up notifications away.`;
 }
-
 export function antiPitch(r) {
   const openers = ['Skip this one if: ', 'This is the wrong pick when: ', 'Do not buy this if: ', 'Better options exist if: ', 'Walk away if: '];
   const core = r.avoid_if || `you are staying in a single country under 7 days — a local plan or airport SIM will usually beat it`;

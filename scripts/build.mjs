@@ -60,23 +60,41 @@ function scenarioFair(r) {
 
 function specTable(r) {
   const rowsHtml = [
-    ['Provider', r.provider], ['Type', r.category], ['Coverage', r.countries.join(', ')],
+    ['Provider', r.provider.charAt(0).toUpperCase() + r.provider.slice(1)], ['Type', r.category], ['Coverage', r.countries.join(', ')],
     ['Data', r.unlimited ? `Unlimited (fair use${r.fup_threshold_gb ? `, ~${r.fup_threshold_gb} GB/day` : ''})` : `${r.cap_gb} GB`],
     ['Validity', `${r.days} days`],
     ['Price', `$${r.price}${r.estimated ? ' <span class="badge badge-est">estimate</span>' : ''}`],
     ['Cost per day', `$${r.daily_cost}`],
     ['Cost per GB', r.price_per_gb === null ? 'n/a (fair use)' : `$${r.price_per_gb}`],
     ['Network', r.network_tech], ['Hotspot', r.hotspot_policy],
+        ...(r.carrier ? [['Local carrier', esc(r.carrier)]] : []),
+    ...(r.activation ? [['Validity starts', esc(r.activation)]] : []),
+    ...(r.ekyc ? [['Registration (eKYC)', esc(r.ekyc)]] : []),
+    ...(r.topup ? [['Top-ups', esc(r.topup)]] : []),
+    ...(r.phone_included ? [['Phone number', esc(r.phone_included)]] : []),
     ['Caveat tier', `<span class="badge badge-${r.caveat_tier.toLowerCase()}">${r.caveat_tier}</span>`],
   ].map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('');
   return `<table class="spec-table"><tbody>${rowsHtml}</tbody></table>`;
 }
 
+function verdictFor(r, o) {
+  const dPrice = Number((o.price - r.price).toFixed(2));
+  const priceTxt = dPrice > 0 ? `$${dPrice} more` : dPrice < 0 ? `$${Math.abs(dPrice)} less` : 'the same price';
+  if (o.unlimited && !r.unlimited) return `Stop counting gigabytes: fair-use unlimited for ${priceTxt}.`;
+  if (!o.unlimited && r.unlimited) return `A predictable cap instead of fair-use, for ${priceTxt}.`;
+  const dGb = o.cap_gb - r.cap_gb;
+  if (dGb > 0 && o.price_per_gb !== null && r.price_per_gb !== null && o.price_per_gb <= r.price_per_gb)
+    return `${dGb} GB more for ${priceTxt} — and a better rate ($${o.price_per_gb}/GB vs $${r.price_per_gb}/GB).`;
+  if (dGb > 0) return `${dGb} GB more headroom for ${priceTxt} — you're buying comfort, not value.`;
+  if (dGb < 0 && dPrice < 0) return `${Math.abs(dGb)} GB less for ${priceTxt} — the right call on Wi-Fi-heavy trips.`;
+  return `Comparable shape at ${priceTxt}; decide on coverage notes or provider trust.`;
+}
+
 function neighborsTable(r, up) {
   if (!r.neighbors.length) return '<p>No comparable plans in the dataset yet.</p>';
   const body = r.neighbors.map(o =>
-    `<tr><td><a href="${up}plans/${o.slug}/">${o.entity_name}</a></td><td>${o.unlimited ? 'fair use' : o.cap_gb + ' GB'}</td><td>${o.days}d</td><td>$${o.price}</td><td>$${o.daily_cost}/day</td></tr>`).join('');
-  return `<table class="spec-table"><thead><tr><th>Plan</th><th>Data</th><th>Validity</th><th>Price</th><th>Per day</th></tr></thead><tbody>${body}</tbody></table>`;
+    `<tr><td><a href="${up}plans/${o.slug}/">${o.entity_name}</a></td><td>${o.unlimited ? 'fair use' : o.cap_gb + ' GB'}</td><td>$${o.price}</td><td>$${o.daily_cost}/day</td><td>${verdictFor(r, o)}</td></tr>`).join('');
+  return `<table class="spec-table"><thead><tr><th>Plan</th><th>Data</th><th>Price</th><th>Per day</th><th>Why switch?</th></tr></thead><tbody>${body}</tbody></table>`;
 }
 
 function schemaFor(r, title, desc) {
@@ -127,6 +145,7 @@ function renderPlanPage(r) {
   const desc = directAnswer(r);
   const estBanner = r.estimated
     ? `<div class="est-banner"><strong>Note:</strong> This price is an estimate from public catalog bands. <a href="${up}methodology/">How we estimate</a>.</div>` : '';
+        ? `<div class="est-banner"><strong>Note:</strong> This price is an estimate from public catalog bands. <a href="${up}methodology/">How we estimate</a>.</div>` : '';
   const secs = SECTIONS[templateFor(r)].map(role => section(role, r, up));
   const body = [secs[0], photo.afterIntro, secs[1], secs[2], photo.mid, ...secs.slice(3)].join('\n');
   return `${head(r, title, desc, up, ogImage)}
