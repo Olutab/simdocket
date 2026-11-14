@@ -145,8 +145,7 @@ function renderPlanPage(r) {
   const desc = directAnswer(r);
   const estBanner = r.estimated
     ? `<div class="est-banner"><strong>Note:</strong> This price is an estimate from public catalog bands. <a href="${up}methodology/">How we estimate</a>.</div>` : '';
-        ? `<div class="est-banner"><strong>Note:</strong> This price is an estimate from public catalog bands. <a href="${up}methodology/">How we estimate</a>.</div>` : '';
-  const secs = SECTIONS[templateFor(r)].map(role => section(role, r, up));
+      const secs = SECTIONS[templateFor(r)].map(role => section(role, r, up));
   const body = [secs[0], photo.afterIntro, secs[1], secs[2], photo.mid, ...secs.slice(3)].join('\n');
   return `${head(r, title, desc, up, ogImage)}
 <header class="site-head">
